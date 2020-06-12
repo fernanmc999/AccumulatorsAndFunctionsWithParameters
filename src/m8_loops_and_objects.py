@@ -28,6 +28,10 @@ def print_sequence1():
        ...
        200
     """
+    n=20
+    for k in range(n+1):
+        print(k*10)
+
     # ------------------------------------------------------------------
     # TODO: 2. Implement this function, per its doc-string above.
     # Put a statement in  main  to test this function.
